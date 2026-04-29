@@ -1,6 +1,6 @@
 # Health Risk Calculator API
 
-Node.js/Express REST API that calculates health insurance risk scores based on age, BMI, blood pressure, and family disease history. Used by the [HealthRiskCalculatorStatic](../HealthRiskCalculatorStatic) frontend.
+Node.js/Express REST API that calculates health insurance risk scores based on age, BMI, blood pressure, and family disease history. Used by the [health-risk-calculator-client](../health-risk-calculator-client) frontend.
 
 ## Endpoints
 
