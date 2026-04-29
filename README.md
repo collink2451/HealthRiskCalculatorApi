@@ -85,4 +85,4 @@ npm start
 
 | Command | Description |
 |---------|-------------|
-| `npm start` | Start with nodemon (auto-restarts on changes) |
+| `npm start` | Start the server |
