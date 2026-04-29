@@ -69,7 +69,7 @@ Pass the `points` values returned by each individual endpoint.
 npm install
 ```
 
-2. Optionally set a `PORT` environment variable (defaults to `3000`):
+2. Create a `.env` file in the root directory:
 
 ```env
 PORT=3000
