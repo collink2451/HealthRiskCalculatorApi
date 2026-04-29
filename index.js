@@ -1,11 +1,8 @@
 const express = require("express");
 const bodyParser = require("body-parser").json();
-const cors = require("cors");
 app = express();
 
 const port = process.env.PORT || 3000;
-
-app.use(cors());
 
 app.get("/ping", (request, response) => {
   console.log("Ping recieved");
