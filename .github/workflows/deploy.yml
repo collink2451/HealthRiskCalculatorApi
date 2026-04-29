@@ -42,4 +42,4 @@ jobs:
           script: |
             cd /var/www/health/api
             npm ci --omit=dev
-            pm2 restart health-api
+            pm2 restart health-api || pm2 start index.js --name health-api
